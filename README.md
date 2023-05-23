@@ -20,4 +20,5 @@ To use the circuit as a subtractor use adder/subtractor pin as 1 and 1^B=B' and 
 
 You can see the final output at 7 segment displays
 
-![Uploading image.png…]()
+![image](https://github.com/9389lalit/16_bit_adder_subtractor/assets/99964550/348956a3-1b9f-4001-a2b2-c3440595aa95)
+
