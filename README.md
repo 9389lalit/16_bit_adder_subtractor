@@ -2,7 +2,8 @@
 It's a calculator to find the sum and subtraction in 2's complement of 2 16 bit number
 
 Circuit for the 16 bit adder and Subtractor 
-![image](https://github.com/9389lalit/16_bit_adder_subtractor/assets/99964550/edb1daa0-63c7-4fa2-b367-350553ea1591)
+
+![Screenshot_20230609_103317](https://github.com/9389lalit/16_bit_adder_subtractor/assets/99964550/e7f70c3b-0008-4799-b130-55035a6ada33)
 
 # Adder 
 To use the circuit as a adder give the adder/subtractor pin value as 0 and as we know the xor of 0 and any number is the number itself so we will get the number B itself and also the cin is 0 so after adding the bits you can see the output in the 7 segment displays.
