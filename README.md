@@ -30,5 +30,5 @@ we have used the Behavioral Modelling of verilog for the design module.
 
 # timing diagram of the circuit 
 
-![image](https://github.com/9389lalit/16_bit_adder_subtractor/assets/99964550/e6593a70-6cfa-4fbc-8528-00d1377509c3)
+![image](https://github.com/9389lalit/16_bit_adder_subtractor/assets/99964550/4d5f5487-7fcd-4cce-87ad-0c1c489dc217)
 
