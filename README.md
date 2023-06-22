@@ -23,3 +23,7 @@ You can see the final output at 7 segment displays
 
 ![image](https://github.com/9389lalit/16_bit_adder_subtractor/assets/99964550/348956a3-1b9f-4001-a2b2-c3440595aa95)
 
+
+# verilog coded design 
+we are also sharing the verilog coded design file and testbench file with the timing diagram.
+we have used the Behavioral Modelling of verilog for the design module.
