@@ -7,7 +7,7 @@ Circuit for the 16 bit adder and Subtractor
 
 # Adder 
 To use the circuit as a adder give the adder/subtractor pin value as 0 and as we know the xor of 0 and any number is the number itself so we will get the number B itself and also the cin is 0 so after adding the bits you can see the output in the 7 segment displays.
-In case of overflow  you can see the extra cassy bit as high.
+In case of overflow  you can see the extra bit as high.
 
 ![image](https://github.com/9389lalit/16_bit_adder_subtractor/assets/99964550/7b5a874e-edd4-41f4-8094-9de5ecb06a99)
 
